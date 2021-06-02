@@ -52,12 +52,12 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 
-┗┓𝐏𝐈𝐍 𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐆𝐑𝐎𝐔𝐏┏┛
+┗┓𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐆𝐑𝐎𝐔𝐏┏┛
 
 Hallo👋 {}, nama saya {}!
 Bot Pro Telegram yang Kuat untuk Mengelola Grup Anda, jangan ragu untuk menambahkan ke grup Anda !!
 ━━━━━━━━━━━━━━━━━━━━
-Dikelola Oleh [Pin💻](https://.tme/skiditod)
+Dikelola Oleh [Pin💻](https://t.me/skiditod)
 
 ࿇Tambahkan saya ke group mu dan jadikan saya admin!! 🧑‍💻
 
