@@ -213,7 +213,7 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="👾 Group",
-                             url=f"https://t.me/teman_random"),
+                             url=f"https://t.me/beergabutria"),
                      
                          InlineKeyboardButton(
                              text="✏️ Help",
