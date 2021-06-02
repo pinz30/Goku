@@ -52,17 +52,16 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 
-Hi {}, Perkenalkan,nama saya {}!
-Saya adalah robot yang bisa membantumu memanage grup kamu. 
-Cepat Undang aku ke grup mu, Supaya aku bisa memberantas para penjahat.
-Aku di buat khusus Untuk membantu kalian,mengusir para jamet telegram yang meresahkan!😋.
-Aku hanya robot tapi Aku juga bisa Galau, jangan Sakiti aku ya mas!!
-━─━─━─━─━─━─━─━─━─━─━
+┗┓𝐏𝐈𝐍 𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐆𝐑𝐎𝐔𝐏┏┛
 
-▪**USERNAME KU ADALAH :** [GOKU BOT](http://t.me/goku_isbot)
+Hallo👋 {}, nama saya {}!
+Bot Pro Telegram yang Kuat untuk Mengelola Grup Anda, jangan ragu untuk menambahkan ke grup Anda !!
+━━━━━━━━━━━━━━━━━━━━
+Dikelola Oleh [Pin💻](*https://.tme/skiditod*)
 
-━─━─━─━─━─━─━─━─━─━─━
-Tekan /help untuk melihat daftar fitur saya.
+࿇Tambahkan saya ke group mu dan jadikan saya admin!! 🧑‍💻
+
+࿇Klik /help 💁‍♂ untuk melihat fitur fitur yang bisa kamu gunakan untuk membantu kinerja grup kamu.
 """
 
 HELP_STRINGS = """
@@ -74,7 +73,6 @@ hal-hal yang bisa saya bantu.
  - /start: mulai bot
  - /help: PM Anda dengan pesan ini.
  - /help <module name>: PM Anda dengan info tentang modul itu.
- - /donate: informasi tentang cara menyumbang!
  - /settings:
    - di PM: akan mengirimkan pengaturan Anda untuk semua modul yang didukung.
    - di grup: akan mengarahkan Anda ke pm, dengan semua pengaturan obrolan itu.
@@ -208,23 +206,23 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="🤖 Add Saya ke group",
+                            text="➕ Add Saya ke group",
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username))
                     ],
                      [
                          InlineKeyboardButton(
-                             text="👥 TR Grup 👥",
+                             text="👾 Group",
                              url=f"https://t.me/teman_random"),
                      
                          InlineKeyboardButton(
-                             text="🍭 Help & Command 🍭",
+                             text="✏️ Help",
                              url=f"t.me/{dispatcher.bot.username}?start=help")
                      ],
                      [  
                          InlineKeyboardButton(
-                             text="✨ CHANNEL ✨",
-                             url="https://t.me/candu_musikk")
+                             text="📍 Owner",
+                             url="https://instagram.com/sml.sptr")
                      ]]))
     else:
         update.effective_message.reply_text(
