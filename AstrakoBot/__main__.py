@@ -83,7 +83,7 @@ Dan berikut ini:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-ASTRAKOBOT_IMG = "https://telegra.ph/file/5db2ca46c29452fa1f5b6.mp4"
+ASTRAKOBOT_IMG = "https://telegra.ph/file/ed2f11f3fecad32428d09.jpg"
 
 DONATE_STRING = """Silahkan Donasi Ke sini 
 biar gw bisa update sistem bot nya lagi ya asu.. 
