@@ -69,7 +69,7 @@ Hai! Nama saya adalah *{}*.
 Saya adalah manusia robot dengan beberapa kelebihan yang menyenangkan! Silahkan lihat berikut ini untuk beberapa ide dari \
 hal-hal yang bisa saya bantu.
 
-*Perintah utama* yang tersedia⚠️:
+*Perintah utama* yang tersedia:
  - /start: mulai bot
  - /help: PM Anda dengan pesan ini.
  - /help <module nama>: PM Anda dengan info tentang modul itu.
