@@ -216,7 +216,7 @@ def start(update: Update, context: CallbackContext):
                              url=f"https://t.me/beergabutria"),
                      
                          InlineKeyboardButton(
-                             text="✏️ Help",
+                             text="✏️ Help/commands",
                              url=f"t.me/{dispatcher.bot.username}?start=help")
                      ],
                      [  
