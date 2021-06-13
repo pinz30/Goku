@@ -54,12 +54,12 @@ PM_START_TEXT = """
 
 ┗┓𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐆𝐑𝐎𝐔𝐏┏┛
 
-Hallo👋 {}, nama saya {}!
+Hallo👋 *{}*, nama saya *{}!*
 Bot Pro Telegram yang Kuat untuk Mengelola Grup Anda, jangan ragu untuk menambahkan ke grup Anda !!
 ━━━━━━━━━━━━━━━━━━━━
-Dikelola Oleh [Pin💻](https://t.me/skiditod)
+_Dikelola Oleh_ [Pin💻](https://t.me/skiditod)
 
-࿇Tambahkan saya ke group mu dan jadikan saya admin!! 🧑‍💻
+࿇Tambahkan saya ke group mu dan jadikan saya *admin!!* 🧑‍💻
 
 ࿇Klik /help 💁‍♂ untuk melihat fitur fitur yang bisa kamu gunakan untuk membantu kinerja grup kamu.
 """
@@ -69,13 +69,13 @@ Hai! Nama saya adalah *{}*.
 Saya adalah manusia robot dengan beberapa kelebihan yang menyenangkan! Silahkan lihat berikut ini untuk beberapa ide dari \
 hal-hal yang bisa saya bantu.
 
-*Perintah utama* yang tersedia:
- - /start: mulai bot
- - /help: PM Anda dengan pesan ini.
- - /help <module name>: PM Anda dengan info tentang modul itu.
- - /settings:
-   - di PM: akan mengirimkan pengaturan Anda untuk semua modul yang didukung.
-   - di grup: akan mengarahkan Anda ke pm, dengan semua pengaturan obrolan itu.
+*Perintah utama* yang tersedia⚠️:
+ •┣[ */start* : mulai bot
+ •┣[ */help* : PM Anda dengan pesan ini.
+ •┣[ */help* _<module nama>_ : PM Anda dengan info tentang modul itu.
+ •┣[ */settings* :
+   •┣[ di PM: akan mengirimkan pengaturan Anda untuk semua modul yang didukung.
+   •┣[ di grup: akan mengarahkan Anda ke pm, dengan semua pengaturan obrolan itu.
 
 {}
 Dan berikut ini:
@@ -88,7 +88,7 @@ ASTRAKOBOT_IMG = "https://telegra.ph/file/a8824cc76d9cd59110bb6.jpg"
 DONATE_STRING = """Silahkan Donasi Ke sini 
 biar gw bisa update sistem bot nya lagi ya asu.. 
 kalau ga mau donasi dahlah kalau error gausah ngeluh kontol. 
-user gratisan gausah sok keras; [RAMA](https://t.me/Ramadhaniiiiiii1), or [SUBS MY CH](https://t.me/Candu_musikk)."""
+user gratisan gausah sok keras; [PIN📮](https://t.me/skiditod), or [JOIN GC](https://t.me/beergabutria)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
