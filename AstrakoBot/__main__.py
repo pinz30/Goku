@@ -70,12 +70,12 @@ Saya adalah manusia robot dengan beberapa kelebihan yang menyenangkan! Silahkan 
 hal-hal yang bisa saya bantu.
 
 *Perintah utama* yang tersedia⚠️:
- •┣[ */start* : mulai bot
- •┣[ */help* : PM Anda dengan pesan ini.
- •┣[ */help* _<module nama>_ : PM Anda dengan info tentang modul itu.
- •┣[ */settings* :
-   •┣[ di PM: akan mengirimkan pengaturan Anda untuk semua modul yang didukung.
-   •┣[ di grup: akan mengarahkan Anda ke pm, dengan semua pengaturan obrolan itu.
+ -┣[• /start: mulai bot
+ -┣[• /help: PM Anda dengan pesan ini.
+ -┣[• /help <module nama>: PM Anda dengan info tentang modul itu.
+ -┣[• /settings:
+   -┣[• di PM: akan mengirimkan pengaturan Anda untuk semua modul yang didukung.
+   -┣[• di grup: akan mengarahkan Anda ke pm, dengan semua pengaturan obrolan itu.
 
 {}
 Dan berikut ini:
