@@ -212,7 +212,7 @@ def start(update: Update, context: CallbackContext):
                     ],
                      [
                          InlineKeyboardButton(
-                             text="👾 Group",
+                             text="📮 Group",
                              url=f"https://t.me/beergabutria"),
                      
                          InlineKeyboardButton(
@@ -221,7 +221,7 @@ def start(update: Update, context: CallbackContext):
                      ],
                      [  
                          InlineKeyboardButton(
-                             text="📍 Owner",
+                             text="👾 Owner",
                              url="https://instagram.com/sml.sptr")
                      ]]))
     else:
