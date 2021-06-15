@@ -51,12 +51,9 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-
-Hi {}, Perkenalkan,nama saya {}!
-Saya adalah robot yang bisa membantumu memanage grup kamu. 
-Cepat Undang aku ke grup mu, Supaya aku bisa memberantas para penjahat.
-Aku di buat khusus Untuk membantu kalian,mengusir para jamet telegram yang meresahkan!😋.
-Aku hanya robot tapi Aku juga bisa Galau, jangan Sakiti aku ya mas!!
+ʜᴀʟᴏᴏ {}
+ɪɴɪ ʙᴏᴛ ᴘᴜɴʏᴀ ꜰɪᴏ ʏᴇʜ ᴄᴜᴍᴀɴ ᴍᴏ ʙɪʟᴀɴɢ ʏɢ ᴘᴜɴʏᴀ ʙᴏᴛ ɪɴɪ sᴜᴘᴇʀ ᴄᴀɴᴛɪᴋ ɢᴀʙᴀᴋᴀʟ ʙɪsᴀ ᴛɪᴅᴜʀ ʟᴜ sᴀᴋɪɴɢ ᴄᴀɴᴛɪᴋɴʏᴀ, ɢᴀs ᴛᴀᴍʙᴀʜᴋᴀɴ ʙᴏᴛ ɪɴɪ ᴋᴇ ɢʀᴜᴘ ᴍᴜ sᴜᴘᴀʏᴀ ᴍᴀᴋɪɴ ᴋᴇʀᴇɴ!
+ᴋᴇᴛɪᴋ /help ᴛᴇʀʟᴇʙɪʜ ᴅᴀʜᴜʟᴜ ᴛᴜᴋ ᴛᴇᴍᴜᴋᴀɴ ʙᴀɴʏᴀᴋ ʀᴀsᴀ
 ━─━─━─━─━─━─━─━─━─━─━
 
 ▪**USERNAME KU ADALAH :** [GOKU](http://t.me/goku_rbot)
@@ -66,9 +63,9 @@ Tekan /help untuk melihat daftar fitur saya.
 """
 
 HELP_STRINGS = """
-Hai! Nama saya adalah *{}*.
-Saya adalah manusia robot dengan beberapa kelebihan yang menyenangkan! Silahkan lihat berikut ini untuk beberapa ide dari \
-hal-hal yang bisa saya bantu.
+ʜᴀʟᴏᴏ! Nama saya adalah *{}*.
+ɪɴɪ ʙᴏᴛ ᴘᴜɴʏᴀ ꜰɪᴏ ʏᴇʜ ᴄᴜᴍᴀɴ ᴍᴏ ʙɪʟᴀɴɢ ʏɢ ᴘᴜɴʏᴀ ʙᴏᴛ ɪɴɪ sᴜᴘᴇʀ ᴄᴀɴᴛɪᴋ ɢᴀʙᴀᴋᴀʟ ʙɪsᴀ ᴛɪᴅᴜʀ ʟᴜ sᴀᴋɪɴɢ ᴄᴀɴᴛɪᴋɴʏᴀ, ɢᴀs ᴛᴀᴍʙᴀʜᴋᴀɴ ʙᴏᴛ ɪɴɪ ᴋᴇ ɢʀᴜᴘ ᴍᴜ sᴜᴘᴀʏᴀ ᴍᴀᴋɪɴ ᴋᴇʀᴇɴ!
+ᴋᴇᴛɪᴋ /help ᴛᴇʀʟᴇʙɪʜ ᴅᴀʜᴜʟᴜ ᴛᴜᴋ ᴛᴇᴍᴜᴋᴀɴ ʙᴀɴʏᴀᴋ ʀᴀsᴀ
 
 *Perintah utama* yang tersedia:
  - /start: mulai bot
@@ -215,7 +212,7 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="👥 TR Grup 👥",
-                             url=f"https://t.me/teman_random"),
+                             url=f"https://t.me/cht_rndm"),
                      
                          InlineKeyboardButton(
                              text="🍭 Help & Command 🍭",
@@ -224,7 +221,7 @@ def start(update: Update, context: CallbackContext):
                      [  
                          InlineKeyboardButton(
                              text="✨ CHANNEL ✨",
-                             url="https://t.me/ramubotinfo")
+                             url="https://t.me/cht_rndm")
                      ]]))
     else:
         update.effective_message.reply_text(
