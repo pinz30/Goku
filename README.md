@@ -17,13 +17,10 @@
  - Jangan lupa bayar wkwkwk canda ngab jan baperan 
 
 <details>
-  <summary>Steps to deploy on Heroku !! </summary>
+  <summary>DEPLOY DISINI YA !! </summary>
 
 ```
-Fill in all the details, Deploy!
-Now go to https://dashboard.heroku.com/apps/(app-name)/resources ( Replace (app-name) with your app name )
-REMEMBER: Turn on worker dyno (Don't worry It's free :D) & Webhook
-Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
+Biasanya bot ini ada kendala, harap maklumi tapi bot yang sudah dideploy bisa di gunakan, error tsb hanya kendala sedikit yg kurng tau diatasi, trima kasih :)
 ```
 
   <p align="center">
@@ -33,7 +30,7 @@ Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.co
 </details>  
 <details>
   
-<summary>DEPLOY KLIK DISINI!! </summary>
+<summary>INFO!! </summary>
 
   ## Setting up the bot (Read this before trying to use!):
 Please make sure to use python3.6, as I cannot guarantee everything will work as expected on older Python versions!
