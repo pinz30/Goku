@@ -170,7 +170,7 @@ For queries or any issues regarding the bot please open an issue ticket or visit
 For starters click on this button 
 
   <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/ramadhani892/Rama"><img src="https://telegra.ph/file/34fa325c222a70badb02f.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/pinz30/Goku"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=flat&logo=heroku" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 </details>  
@@ -184,4 +184,4 @@ Also, missing proper credit for blacklistusers taken from TheRealPhoenixBot (wil
 
 Any other authorship/credits can be seen through the commits.
 
-Should any be missing kindly let us know at [AstrakoBotSupport](https://t.me/AstrakoBotSupport) or simply submit a pull request on the readme.
+Should any be missing kindly let us know at [Bergabut ria](https://t.me/beergabutria) or simply submit a pull request on the readme.
