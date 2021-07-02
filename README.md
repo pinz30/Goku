@@ -10,11 +10,11 @@
 
 ## PENGEN DEPLOY YA XIXIXI
 
-### KLIK SINI KALO MAU DEPLOY 
+### BACA DULU SEBELUM DEPLOY YA TOD! 
  - Usahain udah join gc gua ya su di @beergabutria
  - Aku menyebut bot ini tampan dan pemberani (emot batu)
  - Kalo bingung bisa hubungi owner nya [Pin Gans](https://t.me/skiditod)
- - Jangan lupa bayar wkwkwk canda ngabs baperan amat
+ - Jangan lupa bayar wkwkwk canda ngab jan baperan 
 
 <details>
   <summary>Steps to deploy on Heroku !! </summary>
@@ -33,7 +33,7 @@ Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.co
 </details>  
 <details>
   
-<summary>Steps to self Host!! </summary>
+<summary>DEPLOY KLIK DISINI!! </summary>
 
   ## Setting up the bot (Read this before trying to use!):
 Please make sure to use python3.6, as I cannot guarantee everything will work as expected on older Python versions!
